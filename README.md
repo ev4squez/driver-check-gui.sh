@@ -32,7 +32,7 @@ cd driver-check-gui
 chmod +x driver-check-gui.sh
 
 🔹 Opción 2: Descargar directamente
-wget https://raw.githubusercontent.com/ev4squez/driver-check-gui/main/driver-check-gui.sh
+wget https://raw.githubusercontent.com/ev4squez/driver-check-gui/refs/heads/main/DriverCheck.sh
 chmod +x driver-check-gui.sh
 ```
 ---
