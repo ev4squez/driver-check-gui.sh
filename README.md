@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/<TU_USUARIO>/driver-check-gui/main/driver
 chmod +x driver-check-gui.sh
 
 ---
-🧠 Uso
+## 🧠 Uso
 
 Ejecuta el script:
 ```bash
