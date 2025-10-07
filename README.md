@@ -34,7 +34,7 @@ chmod +x driver-check-gui.sh
 🔹 Opción 2: Descargar directamente
 wget https://raw.githubusercontent.com/<TU_USUARIO>/driver-check-gui/main/driver-check-gui.sh
 chmod +x driver-check-gui.sh
-
+```
 ---
 ## 🧠 Uso
 
