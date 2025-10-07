@@ -27,12 +27,12 @@ Ideal para usuarios de **Arch Linux**, **CachyOS**, **Manjaro**, **Ubuntu**, **F
 
 ### 🔹 Opción 1: Clonar el repositorio
 ```bash
-git clone https://github.com/<TU_USUARIO>/driver-check-gui.git
+git clone https://github.com/ev4squez/driver-check-gui.git
 cd driver-check-gui
 chmod +x driver-check-gui.sh
 
 🔹 Opción 2: Descargar directamente
-wget https://raw.githubusercontent.com/<TU_USUARIO>/driver-check-gui/main/driver-check-gui.sh
+wget https://raw.githubusercontent.com/ev4squez/driver-check-gui/main/driver-check-gui.sh
 chmod +x driver-check-gui.sh
 ```
 ---
