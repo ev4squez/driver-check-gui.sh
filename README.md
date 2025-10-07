@@ -35,13 +35,14 @@ chmod +x driver-check-gui.sh
 wget https://raw.githubusercontent.com/<TU_USUARIO>/driver-check-gui/main/driver-check-gui.sh
 chmod +x driver-check-gui.sh
 
+---
 🧠 Uso
 
 Ejecuta el script:
-
+```bash
 ./driver-check-gui.sh
 
-
+---
 Aparecerá un menú interactivo:
 
 🔧 DriverCheck Linux v2.0
