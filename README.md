@@ -37,14 +37,13 @@ chmod +x driver-check-gui.sh
 ```
 ---
 ## 🧠 Uso
-
 Ejecuta el script:
 ```bash
 ./driver-check-gui.sh
-
+```
 ---
 Aparecerá un menú interactivo:
-
+```bash
 🔧 DriverCheck Linux v2.0
 1) GPU
 2) Red (Ethernet/Wi-Fi)
@@ -54,55 +53,4 @@ Aparecerá un menú interactivo:
 6) Informe completo
 7) Exportar informe
 0) Salir
-
-📋 Ejemplo de salida
-✅ NVIDIA GeForce RTX 3050
-→ nvidia
-
-✅ Intel Wi-Fi 6 AX200
-→ iwlwifi
-
-❌ Dispositivo Realtek USB Ethernet
-→ Driver no detectado
-
-📁 Informe exportado
-
-El informe se guarda en:
-
-~/driver-report.txt
-
-🧑‍💻 Autor
-
-Desarrollado por Elvis Vásquez Silva
-📍 Chile
-💼 Ingeniero en Informática / SysAdmin
-
-🧾 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-Eres libre de usarlo, modificarlo y compartirlo con atribución.
-
-🌟 Contribuciones
-
-¡Pull requests son bienvenidos!
-Si deseas agregar nuevas funciones (detección de kernel, controladores NVIDIA, Bluetooth avanzado, etc.), abre un issue o envía un PR.
-
-🏷️ Tags
-
-linux bash whiptail drivers hardware diagnostic archlinux cachyos
-
-
----
-
-## 🧱 4️⃣ Publicar en GitHub
-
-Desde la terminal:
-
-```bash
-cd ~/driver-check-gui
-git init
-git add .
-git commit -m "Versión inicial de DriverCheck GUI"
-git branch -M main
-git remote add origin https://github.com/<TU_USUARIO>/driver-check-gui.git
-git push -u origin main
+```
