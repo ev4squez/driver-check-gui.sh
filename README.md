@@ -42,6 +42,8 @@ Ejecuta el script:
 ./driver-check-gui.sh
 ```
 ---
+<img width="854" height="636" alt="image" src="https://github.com/user-attachments/assets/dffcefa2-0da3-42a6-8926-df3f887a317a" />
+
 Aparecerá un menú interactivo:
 ```bash
 🔧 DriverCheck Linux v2.0
